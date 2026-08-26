@@ -1,0 +1,14 @@
+2026-08-25 19:51:57.536 Uvicorn server started on :::8765
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8765
+  Network URL: http://192.168.68.54:8765
+
+  Help agents write better Streamlit apps?
+  Install the official Streamlit skills by running streamlit skills in your terminal.
+
+C:\Data_Projects\IBM_HR_Analysis\streamlit_env\Lib\site-packages\sklearn\linear_model\_logistic.py:1403: FutureWarning: 'penalty' was deprecated in version 1.8 and will be removed in 1.10. To avoid this warning, leave 'penalty' set to its default value and use 'l1_ratio' or 'C' instead. Use l1_ratio=0 instead of penalty='l2', l1_ratio=1 instead of penalty='l1', l1_ratio set to a float between 0 and 1 instead of penalty='elasticnet', and C=np.inf instead of penalty=None.
+  warnings.warn(
+C:\Data_Projects\IBM_HR_Analysis\streamlit_env\Lib\site-packages\sklearn\linear_model\_logistic.py:1429: UserWarning: Inconsistent values: penalty=l1 with l1_ratio=0.0. penalty is deprecated. Please use l1_ratio only.
+  warnings.warn(
